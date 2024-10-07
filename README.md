@@ -1,5 +1,5 @@
 <!-- Heading with centered text -->
-<h1 align="center">Hi 👋, I'm Tarun Nayaka R</h1>
+<h1 align="center">Hi 👋, I'm Hariharan P G</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=F76C6C&center=true&vCenter=true&width=435&lines=Software+Engineer+%7C+Full-Stack+Developer;Cloud+Enthusiast+%7C+AI+Explorer" alt="Typing SVG" />
