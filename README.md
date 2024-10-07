@@ -3,9 +3,8 @@
 
 <!-- Intro with unique styling -->
 <p align="center">
-  
-  🚀 **Exploring the realms of Data Science, AI, and Innovation** <br>
-  🎯 **Bringing ideas to life through data-driven insights and cutting-edge technology** 
+  🚀 Exploring the realms of Data Science, AI, and Innovation <br>
+  🎯 Bringing ideas to life through data-driven insights and cutting-edge technology
 </p>
 
 <!-- About Me Section with icons -->
