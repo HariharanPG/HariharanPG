@@ -10,7 +10,7 @@
 <!-- About Me Section with icons -->
 <h2 align="left">🧑‍💻 About Me</h2>
 <p>
-I'm a Data Science enthusiast with a passion for turning data into actionable insights. Currently focused on **AI, Data Science, and Cloud Computing** , I'm always seeking opportunities to apply technology to solve real-world challenges. I love learning and exploring new domains that push the boundaries of innovation.
+I'm a Data Science enthusiast with a passion for turning data into actionable insights. Currently focused on **AI, Data Science, and Cloud Computing**, I'm always seeking opportunities to apply technology to solve real-world challenges. I love learning and exploring new domains that push the boundaries of innovation.
 </p>
 
 - 🔭 **Currently Working On:** AI-driven data models and Power BI Dashboards  
@@ -20,11 +20,11 @@ I'm a Data Science enthusiast with a passion for turning data into actionable in
 
 <!-- Recent Activity -->
 <h2 align="left">🎯 Recent Achievements</h2>
-- Attended the **Microsoft AI Tour 2024**, exploring the latest in AI and its applications  
-- Conducted a successful workshop on **Power BI and Microsoft Learn** for 50+ participants  
-- Attended **GitHub Constellation 2024**, learning from industry experts in software development and AI  
-- Achieved **2x Microsoft Certifications** and **4x GitHub Certifications**  
-- Recently selected as a **Beta Microsoft Student Ambassador**
+- **Attended the Microsoft AI Tour 2024**, exploring the latest in AI and its applications  
+- **Conducted a successful workshop on Power BI and Microsoft Learn** for 50+ participants  
+- **Attended GitHub Constellation 2024**, learning from industry experts in software development and AI  
+- **Achieved 2x Microsoft Certifications and 4x GitHub Certifications**  
+- **Recently selected as a Beta Microsoft Student Ambassador**
 
 <!-- Skills with creative emojis -->
 <h2 align="left">🛠️ Tech Toolbox</h2>
