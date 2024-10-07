@@ -3,13 +3,15 @@
 
 <!-- Intro with unique styling -->
 <p align="center">
-  🚀 *Exploring the realms of Data Science, AI, and Innovation* <br>
-  🎯 *Bringing ideas to life through data-driven insights and cutting-edge technology* 
+  
+  🚀 **Exploring the realms of Data Science, AI, and Innovation** <br>
+  🎯 **Bringing ideas to life through data-driven insights and cutting-edge technology** 
 </p>
 
 <!-- About Me Section with icons -->
 <h2 align="left">🧑‍💻 About Me</h2>
 <p>
+  
 I'm a Data Science enthusiast with a passion for turning data into actionable insights. Currently focused on **AI, Data Science, and Cloud Computing**, I'm always seeking opportunities to apply technology to solve real-world challenges. I love learning and exploring new domains that push the boundaries of innovation.
 </p>
 
@@ -24,7 +26,7 @@ I'm a Data Science enthusiast with a passion for turning data into actionable in
 - **Attended the Microsoft AI Tour 2024**, exploring the latest in AI and its applications
   
 - **Conducted a successful workshop on Power BI and Microsoft Learn** for 50+ participants
--   
+  
 - **Attended GitHub Constellation 2024**, learning from industry experts in software development and AI
    
 - **Achieved 2x Microsoft Certifications and 4x GitHub Certifications**
@@ -34,14 +36,19 @@ I'm a Data Science enthusiast with a passion for turning data into actionable in
 <!-- Skills with creative emojis -->
 <h2 align="left">🛠️ Tech Toolbox</h2>
 <p>
-  💻 **Languages:** Python, SQL, C++  
-  📊 **Tools:** Power BI, Jupyter Notebooks, Pandas  
+  
+  💻 **Languages:** Python, SQL, C++
+  
+  📊 **Tools:** Power BI, Jupyter Notebooks, Pandas
+  
   ☁️ **Cloud & AI:** Azure, TensorFlow, Machine Learning  
+  
   🧠 **Special Interests:** Data Visualization, Predictive Models, AI in IoT  
 </p>
 
 <!-- Fun section to stand out -->
 <h2 align="left">⚡ Fun Facts</h2>
+
 - I’m passionate about **mentorship** and enjoy sharing knowledge with the community  
 - Love to explore **new frameworks** and dive deep into **Microsoft tech**  
 - In my free time, I geek out on **AI in healthcare** and **space tech**
