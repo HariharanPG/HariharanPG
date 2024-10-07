@@ -69,5 +69,5 @@ I’m always open to new ideas, collaborations, and opportunities. Feel free to 
 
 <!-- Footer: Inspirational Quote -->
 <p align="center">
-  🌟 *"The future belongs to those who believe in the beauty of their dreams."*  
+  🌟 "The future belongs to those who believe in the beauty of their dreams."  
 </p>
