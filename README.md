@@ -1,6 +1,10 @@
 <!-- Heading with centered text and wave emoji -->
 <h1 align="center">Hello, I'm Hariharan P G 👋</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=0F7B6C&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+AI+Enthusiast;Microsoft+Certified+%7C+GitHub+Explorer" alt="Typing SVG" />
+</p>
+
 <!-- Intro with unique styling -->
 <p align="center">
   🚀 Exploring the realms of Data Science, AI, and Innovation <br>
