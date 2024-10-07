@@ -1,49 +1,60 @@
-<!-- Heading with centered text -->
-<h1 align="center">Hi 👋, I'm Hariharan P G</h1>
+<!-- Heading with centered text and wave emoji -->
+<h1 align="center">Hello, I'm Hariharan P G 👋</h1>
 
+<!-- Intro with unique styling -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=0F7B6C&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+AI+Enthusiast;Microsoft+Certified+%7C+GitHub+Explorer" alt="Typing SVG" />
+  🚀 *Exploring the realms of Data Science, AI, and Innovation* <br>
+  🎯 *Bringing ideas to life through data-driven insights and cutting-edge technology* 
 </p>
 
-<!-- Intro -->
-Welcome to my GitHub profile! I'm passionate about leveraging data and AI to solve complex problems and drive innovation. With a foundation in data science and artificial intelligence, I love transforming raw data into actionable insights.
-
-- 🌱 *Currently Learning:* Advanced AI techniques and Power BI visualizations
-- 👨‍💻 *Building Projects With:* Python, Power BI, SQL, Pandas
-- 🚀 *Aspiring To:* Empower businesses with data-driven solutions
-- 📚 *Continuous Learner:* Keeping up with the latest in AI and data science trends
-- ⚡ *Fun Fact:* I enjoy analyzing trends in different sectors using Power BI!
-
-<!-- GitHub Stats -->
-<h3 align="left">GitHub Stats 📊</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hariharan-pg&show_icons=true&theme=algolia" alt="Hariharan's GitHub stats" />
+<!-- About Me Section with icons -->
+<h2 align="left">🧑‍💻 About Me</h2>
+<p>
+I'm a Data Science enthusiast with a passion for turning data into actionable insights. Currently focused on **AI, Data Science, and Cloud Computing**, I'm always seeking opportunities to apply technology to solve real-world challenges. I love learning and exploring new domains that push the boundaries of innovation.
 </p>
 
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan-pg&layout=compact&theme=algolia" alt="Top Languages" />
+- 🔭 **Currently Working On:** AI-driven data models and Power BI Dashboards  
+- 🌱 **Learning Next:** Deep dives into Azure AI services and cloud integration  
+- ⚙️ **Tech Interests:** Python, Power BI, Machine Learning, IoT  
+- ✍️ **I Enjoy:** Mentoring students, exploring Microsoft technologies, and staying updated on industry trends  
+
+<!-- Recent Activity -->
+<h2 align="left">🎯 Recent Achievements</h2>
+- Conducted a successful workshop on **Power BI and Microsoft Learn** for 50+ participants  
+- Completed **13 certifications** in Data Visualization  
+- Attended **GitHub Constellation 2024**, learning from industry experts in software development and AI  
+
+<!-- Skills with creative emojis -->
+<h2 align="left">🛠️ Tech Toolbox</h2>
+<p>
+  💻 **Languages:** Python, SQL, C++  
+  📊 **Tools:** Power BI, Jupyter Notebooks, Pandas  
+  ☁️ **Cloud & AI:** Azure, TensorFlow, Machine Learning  
+  🧠 **Special Interests:** Data Visualization, Predictive Models, AI in IoT  
 </p>
 
-<!-- Tech Stack -->
-<h3 align="left">Tech Stack 💻</h3>
+<!-- Fun section to stand out -->
+<h2 align="left">⚡ Fun Facts</h2>
+- I’m passionate about **mentorship** and enjoy sharing knowledge with the community  
+- Love to explore **new frameworks** and dive deep into **Microsoft tech**  
+- In my free time, I geek out on **AI in healthcare** and **space tech**
+
+<!-- Call to action: How to connect -->
+<h2 align="left">📬 Let's Connect!</h2>
+<p>
+I’m always open to new ideas, collaborations, and opportunities. Feel free to reach out to discuss tech, AI, or anything interesting!  
+</p>
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/hariharanpg" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hariharanpg@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<!-- Contact Info -->
-<h3 align="left">Connect with Me 📫</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/hariharan-pg" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hariharan LinkedIn" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+<!-- Footer: Inspirational Quote -->
+<p align="center">
+  🌟 *"The future belongs to those who believe in the beauty of their dreams."*  
 </p>
