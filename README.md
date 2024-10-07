@@ -20,10 +20,15 @@ I'm a Data Science enthusiast with a passion for turning data into actionable in
 
 <!-- Recent Activity -->
 <h2 align="left">🎯 Recent Achievements</h2>
-- **Attended the Microsoft AI Tour 2024**, exploring the latest in AI and its applications  
-- **Conducted a successful workshop on Power BI and Microsoft Learn** for 50+ participants  
-- **Attended GitHub Constellation 2024**, learning from industry experts in software development and AI  
-- **Achieved 2x Microsoft Certifications and 4x GitHub Certifications**  
+
+- **Attended the Microsoft AI Tour 2024**, exploring the latest in AI and its applications
+  
+- **Conducted a successful workshop on Power BI and Microsoft Learn** for 50+ participants
+-   
+- **Attended GitHub Constellation 2024**, learning from industry experts in software development and AI
+   
+- **Achieved 2x Microsoft Certifications and 4x GitHub Certifications**
+    
 - **Recently selected as a Beta Microsoft Student Ambassador**
 
 <!-- Skills with creative emojis -->
