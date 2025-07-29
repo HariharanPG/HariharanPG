@@ -24,7 +24,7 @@ I'm a Data Science enthusiast with a passion for turning data into actionable in
 <!-- Recent Activity -->
 <h2 align="left">🎯 Recent Achievements</h2>
 
-- **Attended the Microsoft AI Tour 2024**, exploring the latest in AI and its applications
+- **Attended the Microsoft AI Tour 2024,2025**, exploring the latest in AI and its applications
   
 - **Conducted a successful workshop on Power BI and Microsoft Learn** for 50+ participants
   
@@ -32,17 +32,17 @@ I'm a Data Science enthusiast with a passion for turning data into actionable in
    
 - **Achieved 2x Microsoft Certifications and 4x GitHub Certifications**
     
-- **Recently selected as a Beta Microsoft Student Ambassador**
+- **Selected as a Beta Microsoft Student Ambassador by Microsoft**
 
 <!-- Skills with creative emojis -->
 <h2 align="left">🛠️ Tech Toolbox</h2>
 <p>
   
-  💻 **Languages:** Python, SQL, C++
+  💻 **Languages:** Python, SQL
   
   📊 **Tools:** Power BI, Jupyter Notebooks, Pandas
   
-  ☁️ **Cloud & AI:** Azure, TensorFlow, Machine Learning  
+  ☁️ **Cloud & AI:** Azure, Machine Learning  
   
   🧠 **Special Interests:** Data Visualization, Predictive Models, AI in IoT  
 </p>
